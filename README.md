@@ -11,7 +11,6 @@ Posts and Telecommunications Institute of Technology
 📫 How to reach me
 Feel free to get in touch with me through any of the following channels:
 <br>
-[(https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)](https://github.com/Du380202)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Dutran.00)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Dutran3802)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tranvandu3802@gmail.com)
