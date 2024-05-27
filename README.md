@@ -5,10 +5,11 @@ Welcome to my GitHub profile! I'm thrilled to have you here.<br>
 I'm passionate about a wide range of topics in the tech world. Some of my key interests include:<br>
 
 Software Development: Building robust and scalable applications.<br>
-Machine Learning: Creating intelligent models that can learn and make predictions.<br>
-<br>
+Machine Learning: Creating intelligent models that can learn and make predictions.<be>
+
 🌱 I’m currently learning<br>
 Posts and Telecommunications Institute of Technology<br>
+
 📫 How to reach me<br>
 Feel free to get in touch with me through any of the following channels:
 <br>
