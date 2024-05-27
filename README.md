@@ -1,14 +1,15 @@
-👋 Hi, I’m Du
-Welcome to my GitHub profile! I'm thrilled to have you here.
+👋 Hi, I’m Du<br>
+Welcome to my GitHub profile! I'm thrilled to have you here.<br>
 
-👀 I’m interested in
-I'm passionate about a wide range of topics in the tech world. Some of my key interests include:
+👀 I’m interested in<br>
+I'm passionate about a wide range of topics in the tech world. Some of my key interests include:<br>
 
-Software Development: Building robust and scalable applications.
-Machine Learning: Creating intelligent models that can learn and make predictions.
-🌱 I’m currently learning
-Posts and Telecommunications Institute of Technology
-📫 How to reach me
+Software Development: Building robust and scalable applications.<br>
+Machine Learning: Creating intelligent models that can learn and make predictions.<br>
+<br>
+🌱 I’m currently learning<br>
+Posts and Telecommunications Institute of Technology<br>
+📫 How to reach me<br>
 Feel free to get in touch with me through any of the following channels:
 <br>
 <a href="https://github.com/Du380202"><img src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png&color=000000" alt=""></a>
